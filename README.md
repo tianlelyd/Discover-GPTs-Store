@@ -2,6 +2,8 @@
 
 Discover Gpts Store
 
+**Thank you so much [GPTs Hunter](https://www.gptshunter.com) for sharing gpts-data**
+
 ## 1. Language Coach
 
 By Watchovr LLC [Try it Now](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach)
